@@ -3,4 +3,5 @@ numpy
 seaborn
 kaggle
 opendatasets
+flask-basicauth
 -e .

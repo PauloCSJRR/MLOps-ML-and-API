@@ -6,3 +6,6 @@ mlproject.egg-info/dependency_links.txt
 mlproject.egg-info/requires.txt
 mlproject.egg-info/top_level.txt
 src/__init__.py
+src/components/__init__.py
+src/components/house_pricing_data_ingestion.py
+src/components/house_pricing_model_trainer.py
